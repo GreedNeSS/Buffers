@@ -1,0 +1,19 @@
+{
+  "name": "buffers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-alloc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreedNeSS/Buffers.git"
+  },
+  "author": "GreeD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreedNeSS/Buffers/issues"
+  },
+  "homepage": "https://github.com/GreedNeSS/Buffers#readme"
+}
